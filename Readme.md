@@ -1,3 +1,8 @@
+[![](http://imgur.com/DWGECXG.gif)](https://www.youtube.com/watch?v=N4eA68BEpak)
+<sup>**Note:** The image above is an animated GIF, so there's some quality lost. Please see the [YouTube video](https://www.youtube.com/watch?v=N4eA68BEpak) for higher quality visualization of Disclosure's You and Me.</sup>
+
+This an Unreal Engine 4 plugin that loads `.ogg` files at runtime and analyzes them to get the frequency spectrum to control gameplay, visualization and more.
+
 License
 -------------
 By using this plugin you accept the CC-BY 4.0 license and
