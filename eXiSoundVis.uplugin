@@ -1,0 +1,19 @@
+{
+    "FileVersion" : 3,
+	
+    "FriendlyName" : "eXi's Sound Visualization Plugin",
+    "Version" : 1,
+    "VersionName": "1.0.0",
+    "EngineVersion" : "4.10.01",
+    "Description" : "This plugin allows you to analyze an .ogg Audio File and use the Spectrum data to drive gameplay stuff!",
+    "Category" : "eXi.Sound",
+    "CreatedBy" : "Cedric 'eXi' Neukirchen",
+	
+	"Modules" :
+    [
+        {
+            "Name" : "eXiSoundVis",
+            "Type" : "Runtime"
+        } 
+    ]	
+}
